@@ -1,3 +1,5 @@
+#Leonardo Perrini 2022
+
 import numba
 from numba import jit
 from timeit import default_timer as timer
