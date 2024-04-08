@@ -74,9 +74,3 @@ for i in tqdm(range(3000)):
   img.save(f"julia-{i}.png")
 
 print("zoom totale: ",zoom)
-
-
-
-
-
-
