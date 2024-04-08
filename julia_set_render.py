@@ -1,4 +1,4 @@
-#Leonardo Perrini 2065029 SSAS ST
+#Leonardo Perrini SSAS 2023
 
 '''Questo programma Python utilizza la libreria Tensorflow per il calcolo parallelo su GPU per creare
 e renderizzare immagini di insiemi di Julia. Le immagini sono colorate tramite dei semplici 
